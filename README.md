@@ -11,8 +11,8 @@ Tech Stack used:
  This give a structure  and provides a stablity to Grey market.
  
 Developed by :The Matrix 
-                     { NEO: Raj vardhan
-                        Cypher: Shikher kumar
+                     { NEO: Shikher kumar
+                        Cypher:  Raj vardhan
                          Morphus:Abhishek malviya }
                          
  
